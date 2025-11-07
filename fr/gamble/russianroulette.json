@@ -1,9 +1,0 @@
-{
-  "Help": "[CMD_KEY]russianroulette ~~(pari)~~\n\nJouez à la roulette russe avec vos amis et une arme à feu.\n\nObjectif du jeu: priez pour survivre.",
-  "RateLimit": "Vous ne pouvez plus utiliser la roulette russe pour **[COOLDOWN]**!",
-  "TooHigh": "Vous ne pouvez pas parier autant!",
-  "TooLow": "Vous ne pouvez pas parier moins de 1¤",
-  "Click": "Clic...",
-  "Win": "\nVous avez survécu et avez gagné `¤%s`!",
-  "Lose": "\nVous êtes mort et vous avez perdu`¤%s`!"
-}

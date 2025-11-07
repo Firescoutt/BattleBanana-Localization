@@ -1,7 +1,0 @@
-{
-    "Help": "[CMD_KEY]unequip\n\nUnequips your current weapon",
-    "NothingEquip": "You don't have anything equipped anyway!",
-    "NoRoom": "No room in your weapon storage!",
-    "AlreadyStored": "You already have a weapon with that name stored!",
-    "UnEquip": " unequipped!"
-}

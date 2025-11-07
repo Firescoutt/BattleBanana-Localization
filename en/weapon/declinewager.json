@@ -1,5 +1,0 @@
-{
-    "Help": "[CMD_KEY]declinewager (wager number)\n\nDeclines a wager.",
-    "NotFound": "Request not found!",
-    "Success": "**%s** declined a wager from **%s**"
-}

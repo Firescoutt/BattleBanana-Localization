@@ -1,7 +1,0 @@
-{
-    "Help": "[CMD_KEY]prestige\n\nMake you restart from 0, \nkeeping few stats \nand having some bonuses :)",
-    "CNF": "This action cannot be reverted, are you sure you want to prestige?",
-    "LowLevel": "You need to be level %s or higher to go to the next prestige!",
-    "CantAfford": "You need atleast %s %s to afford the next prestige!",
-    "Success": "You successfully prestiged! You are now at prestige %s, congrats!"
-}

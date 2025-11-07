@@ -1,6 +1,0 @@
-{
-    "Help": "[CMD_KEY]declinequest index\n\nDeclines a quest because you're too wimpy to accept it.",
-    "Forgotten": "do a long forgotten quest:",
-    "NotFound": "Quest not found!",
-    "Success": "**%s** declined to do %s **%s [LEVEL %s]**!"
-}

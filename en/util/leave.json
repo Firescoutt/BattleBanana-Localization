@@ -1,6 +1,0 @@
-{
-    "Help": "[CMD_KEY]leave\n\nMakes BattleBanana leave your guild cleanly.\nThis will delete all quests & weapons created\non your server.\n\nThis command can only be run by real server admins\n(you must have manage server permissions).",
-    "CNF": "The bot will leave your server and __**everything**__ will be reset!",
-    "Bye": "Goodbye!",
-    "Error": "Could not leave server!"
-}

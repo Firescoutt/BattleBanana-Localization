@@ -1,4 +1,0 @@
-{
-    "Help": "[CMD_KEY]servers\n\nShows the number of servers BattleBanana is chillin on.",
-    "Response": "BattleBanana is active on **%s guilds**"
-}

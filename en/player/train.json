@@ -1,9 +1,9 @@
 {
     "Help": "[CMD_KEY]train\n\nTrain to get a little exp to help you with quests.\n\nThis will never give you much exp! But should help you out with quests early on!\n\nYou can use this command once every 6 hours!",
-    "RateLimit": "You've done all the training you can for now! You can train again in **[COOLDOWN]**!",
+    "RateLimit": "You've done all the training you can for now! You can train again **[COOLDOWN]**!",
     "Title": "You trained like a mad man",
     "Description": "After a hard moment, you feel stronger!",
     "FieldName": "Training result:",
     "Footer": "You feel exhausted and may train again in 6 hours!",
-    "Complete": "%s training complete!"
+    "Complete": "training complete!"
 }

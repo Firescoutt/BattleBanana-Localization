@@ -1,5 +1,0 @@
-{
-    "Help": "[CMD_KEY]redeem (code)\n\nRedeem your code",
-    "Invalid": "Code does not exist!",
-    "Success": "You successfully reclaimed **%s** !!"
-}

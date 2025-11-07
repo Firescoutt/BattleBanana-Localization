@@ -1,0 +1,9 @@
+{
+  "Help": "[CMD_KEY]train\n\nEntraînez-vous pour obtenir un peu d'exp pour vous aider dans vos quêtes.\n\nCela ne vous donnera jamais beaucoup d'expérience! Mais devrait vous aider avec les quêtes dès le début!\n\nVous pouvez utiliser cette commande une fois toutes les 6 heures!",
+  "RateLimit": "Vous avez fait toute la formation que vous pouvez pour le moment! Vous pouvez vous entraîner à nouveau en **[COOLDOWN]**!",
+  "Title": "Tu t'es entraîné comme un fou",
+  "Description": "Après un moment difficile, vous vous sentez plus fort!",
+  "FieldName": "Résultat de la formation:",
+  "Footer": "Vous vous sentez épuisé et pouvez vous entraîner à nouveau dans 6 heures!",
+  "Complete": "%s formation terminée!"
+}

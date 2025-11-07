@@ -1,0 +1,5 @@
+{
+  "Help": "[CMD_KEY]battlename (nom)\n\nDéfinit votre nom dans BattleBanana.\nPour réinitialiser votre nom à votre nom discord, exécutez\ncommande sans argument",
+  "Error": "Le nom doit comporter entre **%d-%d** caractères!",
+  "Response": "Votre nom a été défini sur **%s**!"
+}

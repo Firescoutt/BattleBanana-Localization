@@ -1,0 +1,23 @@
+{
+  "Help": "[CMD_KEY]blackjack (pari)\n\nJouez au blackjack avec BattleBanana.\n\nObjectif du jeu: Obtenir 21 ou le plus proche pour gagner!\n[Valeurs des cartes](https://battlebanana.xyz/img/21Values.png)",
+  "RateLimit": "Vous ne pouvez plus utiliser blackjack pour **[COOLDOWN]**!",
+  "HighBet": "Vous ne pouvez pas parier autant!",
+  "LowBet": "Vous ne pouvez pas parier moins de 1¤",
+  "AlreadyPlay": "Vous jouez déjà!",
+  "StartTitle": "Croupier de Blackjack",
+  "StartDesc": "Partie de %s. Pari actuel: ¤%s",
+  "StartFooter": "Répondez par \"hit\" ou \"stand\". Cette invite se fermera dans 120 secondes",
+  "UserHand": "Votre main (%s)",
+  "DealerHand": "Main du croupier (%s)",
+  "Result": "Résultat",
+  "UserBust": "Vous avez dépassez!",
+  "UserBJ": "Vous gagnez avec un blackjack!",
+  "UserWin": "Vous gagnez avec une main de %s contre %s.",
+  "DealBust": "Le croupier à dépassé!",
+  "DealBJ": "Le croupier a gagné avec un blackjack!",
+  "DealWin": "Le croupier gagne avec une main de %s contre %s.",
+  "Tie": "Égalité! %s-%s",
+  "RewardWin": " Vous avez été récompensé par `¤%s`",
+  "RewarddLose": " Vous avez perdu `¤%s`.",
+  "RewardTie": " Vous avez récupéré votre pari!"
+}

@@ -1,0 +1,9 @@
+{
+  "Help": "[CMD_KEY]train\n\nEntrena para obtener algo de experiencia que te ayudará con las misiones.\n\n¡Esto nunca te dará mucha experiencia! ¡Pero te ayudará con las misiones al principio!\n\nPuedes usar este comando una vez cada 6 horas.",
+  "RateLimit": "¡Has hecho todo el entrenamiento que podías hacer por ahora! ¡Puedes entrenar de nuevo **[ENFRIAMIENTO]**!",
+  "Title": "Entrenaste como un loco",
+  "Description": "¡Tras un momento difícil, te sientes más fuerte!",
+  "FieldName": "Resultado del entrenamiento:",
+  "Footer": "¡Te sientes agotado y quizás tengas que entrenar de nuevo en 6 horas!",
+  "Complete": "¡Entrenamiento completado!"
+}

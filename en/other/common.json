@@ -1,0 +1,18 @@
+{
+  "TComplete": "Transaction complete!",
+  "TSender": "Sender:",
+  "TRecipient": "Recipient",
+  "TNote": ":pencil: Attached note: ",
+  "TReceipt": "Please keep this receipt for your records.",
+  "Name": "Name: ",
+  "Owner": "Owner: ",
+  "Description": "Description: ",
+  "MemberCount": "Member Count: ",
+  "AverageLvl": "Average Level: ",
+  "Members": "Members: ",
+  "Admins": "Admins: ",
+  "Pendings": "Pendings: ",
+  "RequiredLvl": "Required Level: ",
+  "Recruiting": "Recruiting:",
+  "WepNoTFound": "Weapon not found"
+}

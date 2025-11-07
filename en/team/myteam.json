@@ -1,0 +1,7 @@
+{
+    "Help": "[CMD_KEY]myteam\n\nDisplay your team!\n\nCouldn't find \na longer description \nfor this than \nthat :shrug:\nSo now it is longer",
+    "NotInTeam": "You're not in any team!",
+    "NoPending": "Nobody is pending!",
+    "NoAdmins": "There is no admins to display!",
+    "NoMembers": "There is no members to display!"
+}

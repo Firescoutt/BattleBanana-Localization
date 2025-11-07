@@ -1,0 +1,12 @@
+{
+    "Help": "[CMD_KEY]botinfo\n\nGeneral information about BattleBanana.",
+    "Title": "BattleBanana's Information",
+    "Desc": "BattleBanana is customizable bot to add fun commands, quests and battles to your server.",
+    "Original": "Originally DueUtil by",
+    "Continued": "Continued by",
+    "Frame": "Framework",
+    "Ver": "Version",
+    "Invite": "Invite BattleBanana!",
+    "NSupport": "Support server",
+    "DSupport": "For help with the bot or a laugh join **https://discord.gg/P7DBDEC**!"
+}

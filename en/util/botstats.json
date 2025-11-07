@@ -1,0 +1,20 @@
+{
+    "Help": "[CMD_KEY]stats\n\nBattleBanana's stats since the dawn of time!",
+    "Desc": "The numbers and stuff of BattleBanana right now!\nThe **worst** Discord bot since %s, %s!",
+
+    "General": "General",
+    "Images": " **%s** images served.\n",
+    "Discoin": " **Đ%s** Discoin received.\n",
+
+    "Game": "Game",
+    "Players": " **%s** players.\n",
+    "Quests": " **%s** quests given.\n",
+    "QuestsGiven": " **%s** quests attempted.\n",
+    "Levels": " **%s** level ups.\n",
+    "Currency": " **%s** awarded.\n",
+    "CurrencyTransfer": " **%s** transferred between players.",
+
+    "Shard": "Shard",
+    "Name": "You're connected to shard **%d/%d** (that is named %s).\n",
+    "Uptime": "Current uptime is %s."
+}

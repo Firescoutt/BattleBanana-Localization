@@ -1,0 +1,7 @@
+{
+    "Help": "[CMD_KEY]currencies\n\nDisplay every currencies currently available on Discoin",
+    "Title": " Current currencies!",
+    "Footer": "Visit %s for exchange rate.",
+    "NError": "An error occured!",
+    "VError": "There was an error retrieving Discoin's currencies."
+}

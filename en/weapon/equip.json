@@ -1,0 +1,7 @@
+{
+    "Help": "[CMD_KEY]equip (weapon name)\nEquips a weapon from your weapon inventory.",
+    "NotStored": "You do not have that weapon stored!",
+    "AlreadyEquip": "You already have that weapon equipped!",
+    "SameName": "Can't put your current weapon into storage!\nThere is already a weapon with the same name stored!",
+    "Equipped": "equipped!"
+}

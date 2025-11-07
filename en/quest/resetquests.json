@@ -1,0 +1,6 @@
+{
+    "Help": "[CMD_KEY]resetquests\n\nGenocide in a command!\nThis command will **delete all quests** on your guild.",
+    "CNF": "This will **__permanently__** delete all your quests!",
+    "NuQuests": "There's no quests to delete!",
+    "Success": "🗑️ Your quests have been reset—**%d %s** deleted."
+}

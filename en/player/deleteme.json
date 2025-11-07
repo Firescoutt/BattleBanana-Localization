@@ -1,0 +1,5 @@
+{
+    "Help": "[CMD_KEY]deleteme\n\nDeletes all your stats & any customization.\nThis cannot be reversed!",
+    "CNF": "This will **__permanently__** delete your account!",
+    "Success": "Your user has been deleted."
+}

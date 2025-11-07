@@ -1,0 +1,6 @@
+{
+    "Help": "[CMD_KEY]myprofile\n\nGives the link to your battlebanana.xyz profile",
+    "Locked": ":lock: Your profile is currently set to private!\nIf you want a public profile login to <https://battlebanana.xyz/> and make your profile public in the settings.",
+    "Success": "Your profile is at %s"
+
+}

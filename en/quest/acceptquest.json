@@ -1,0 +1,10 @@
+{
+    "Help": "[CMD_KEY]acceptquest (quest number)\n\nYou know what to do. Spam ``[CMD_KEY]acceptquest 1``!",
+    "QNotFound": "Quest not found!",
+    "CantAfford": "You can't afford the risk!",
+    "QLimit": "You can't do more than %s quests a day!",
+    "QResult": "Quest results",
+    "Lose": ":skull: **%s** lost to the **%s** and dropped ``%s``",
+    "Win": ":sparkles: **%s** defeated the **%s** and was rewarded with ``%s``",
+    "Tie": ":question: Against all you drew with the quest!"
+}

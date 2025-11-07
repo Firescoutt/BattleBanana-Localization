@@ -1,0 +1,4 @@
+{
+    "Help": "[CMD_KEY]mylimit\n\nShows the weapon price you're limited to.",
+    "Response": "You're currently limited to weapons with a value up to **%s**!"
+}
